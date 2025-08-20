@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "619691016286",
+    "firebase_url": "https://firestore-c7451-default-rtdb.firebaseio.com",
+    "project_id": "firestore-c7451",
+    "storage_bucket": "firestore-c7451.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619691016286:android:4fcf978e5587129ca834cf",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqcZgpq5l30QUZuohhkNDCvWz7ZZIVzKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
